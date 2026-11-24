@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/corlab-tech-77973/sitemap.xml
+Sitemap: https://corlab-tech-77973.pages.dev/sitemap.xml
